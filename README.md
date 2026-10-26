@@ -53,7 +53,7 @@ One wish per summon, or send him away and nothing is lost.
 | Immortality | A colonist never ages and cannot die. A killing blow is undone: a phoenix rebuilds the body over six hours, then you choose where they rise. Once per save |
 | Teach us | Two skills go to 20 |
 | Rain of plenty | 15 days of rich soil |
-| A new friend | An ally joins you |
+| A new friend | faction reputation ups  |
 
 ### 7. Afterwards
 The balls turn to stone where they lay. After about 15 days the stones crumble and the balls scatter again, free to turn up anywhere.
