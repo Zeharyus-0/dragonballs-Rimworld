@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (c) 2026 Zeharyus. All rights reserved. See LICENSE.txt: no modification, redistribution or derivative works without written permission. -->
+<ModMetaData>
+  <name>Dragon Balls</name>
+  <author>Zeharyus</author>
+  <packageId>Zeharyus.DragonBalls</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+    <li>1.7</li>
+  </supportedVersions>
+  <description>Seven glass-orange Dragon Balls, hidden in the world's affairs, and the Eternal Dragon who answers when they are gathered.
+
+- Seven Dragon Balls, one to seven red stars, drawn as real glass: glow, caustic, specular highlight. Each lights up its surroundings. There is only ever one of each.
+- They turn up by chance lying on quest-site and caravan-encounter maps (you are told only when a colonist gets close). Factions get hold of them and keep them in their bases, on a pedestal, under guard. The more balls one faction holds, the stronger its defence. Miss one and leave, and it goes back into hiding.
+- Lay all seven within nine cells of each other and press Summon Shenron. The summoning follows the anime: the balls float into a hexagon, the light bursts in a white crown, the sky goes black and fills with golden glitter, and the dragon uncoils out of it: "Now, state your wish."
+- A research unlocks a craftable dragon radar: while you own one it sweeps for the balls factions took and marks them on the world map. A precision research shows the exact base instead of just the faction, and beware: the radar sometimes shows a false signal. A third research adds an Encyclopedia: an open storybook that lists the seven balls, who keeps them and who carries them.
+- Factions move balls between their bases in heavily guarded convoys that travel for days. With a radar you can follow them on the world map, and a caravan of yours can ambush a hostile convoy.
+- Friendly factions never sell. You negotiate in the Encyclopedia: a ball costs 100,000 silver, or a favour (an enemy of theirs raids you and every raider must die). Selling one to a faction pays 10,000.
+- Factions fight wars over balls, announced days ahead. You can send silver to a side. Hostile factions send thieves and war parties for a ball you hold, and raiders near a ball go straight for it. If one faction gathers all seven it calls the Eternal Dragon itself after five days: a towering, armored, unrecruitable champion with a big escort, a plague on your colonists, a silly wish, or a gift to you.
+- One wish per summon: heal everyone, wealth, bring a dead colonist back, make a colonist young and strong again, immortality (no aging, cannot die, a golden halo and a half red, half gold aura; once per save, and a killing blow is undone by a phoenix that rebuilds the body, then you choose where they rise), a rain of plenty, and more.
+- Then the balls turn to stone and, after about a quarter of a year, crumble and scatter again.
+
+Everything can be switched off or tuned in the mod settings.
+
+Not affiliated with Akira Toriyama, Toei Animation or Shueisha.
+
+Requires Harmony.</description>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077</steamWorkshopUrl>
+      <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Ludeon.RimWorld</li>
+    <li>brrainz.harmony</li>
+  </loadAfter>
+</ModMetaData>
